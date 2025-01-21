@@ -1,6 +1,6 @@
 import React, {ReactNode} from 'react'
 
-import './Card'
+import './BasicCard'
 
 interface CardsProps {
   children: ReactNode;
